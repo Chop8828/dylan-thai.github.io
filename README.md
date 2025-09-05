@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! I’m a first-year scholar MSECE student at San Francisco State University
 
 ## About Me
-I have experience in DSP, embedded C, Arduino, and more
+Motivated graduate student with a foundation in C, Java, MATLAB programming, and experience in embedded systems. Seeking opportunities to further develop expertise in hardware development and circuit system design.
 
 ## Skills
 - Arduino
