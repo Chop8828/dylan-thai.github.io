@@ -7,5 +7,10 @@ Motivated graduate student with a foundation in C, Java, MATLAB programming, and
 ## Skills
 - Arduino
 
+## Past Projects
+- WonderWall
+- Smart Shoe Insole
+-
+
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/dylan-thai415/)
